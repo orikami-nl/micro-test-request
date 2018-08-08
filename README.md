@@ -3,7 +3,7 @@
 Will call your [micro](https://github.com/zeit/micro) function with a fake `req` and `res`.
 
 ```javascript
-const request = require("micro-test-request");
+const request = require("@orikami/micro-test-request");
 
 // Your micro function in `index.js`
 const handler = (req, res) => {
