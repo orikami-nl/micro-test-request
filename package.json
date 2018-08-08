@@ -1,0 +1,9 @@
+{
+  "name": "micro-test-request",
+  "version": "1.2.0",
+  "description": "Call a micro function with a fake request to get a fake response",
+  "main": "index.js",
+  "author": "Mark Marijnissen",
+  "license": "MIT",
+  "private": true
+}
